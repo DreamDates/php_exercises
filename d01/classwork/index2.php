@@ -1,3 +1,7 @@
+<?php
+//fdsdfghjk
+?>
+
 <html>
 	<head>Php inside HTML</head>
 <body>
